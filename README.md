@@ -41,10 +41,11 @@
    <li>Special Symbols Usage</li>
    </ul>
    Once the user fill correctly the prompts, the password will be automatically generated and provided by JavaScript, parsing it on the text area.
-   
+
    <br>
 
-       <img src="./Assets/images/example.jpg" alt="Logo" height="200">
+<img src="./Assets/images/example.jpg" alt="Logo" height="200">
+
    </p>
 
 
