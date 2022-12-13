@@ -28,6 +28,7 @@
 ### About The Project
 
 1. Generate Password
+<br>
    ![GeneratePasword](./Assets/images/genbtn.jpg)
    <p>When the user click on the generate password button the application will output several prompts for the password specifications. The prompts that the button will generate are:
    <ul>
@@ -38,6 +39,7 @@
    <li>Special Symbols Usage</li>
    </ul>
    Once the user fill correctly the prompts, the password will be automatically generated and provided by JavaScript, parsing it on the text area.
+   <br>
        <img src="./Assets/images/example.jpg" alt="Logo" height="200">
    </p>
 
