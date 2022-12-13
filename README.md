@@ -29,7 +29,9 @@
 
 1. Generate Password
 <br>
+
    ![GeneratePasword](./Assets/images/genbtn.jpg)
+
    <p>When the user click on the generate password button the application will output several prompts for the password specifications. The prompts that the button will generate are:
    <ul>
    <li>Password Length</li>
