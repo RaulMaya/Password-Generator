@@ -41,7 +41,9 @@
    <li>Special Symbols Usage</li>
    </ul>
    Once the user fill correctly the prompts, the password will be automatically generated and provided by JavaScript, parsing it on the text area.
+   
    <br>
+
        <img src="./Assets/images/example.jpg" alt="Logo" height="200">
    </p>
 
@@ -52,7 +54,10 @@
 <br>
 
 <p>This is a plus to the project focusing on th user experience, so they can copy in an easier way their new generated password. In other words when the user generate a password, and they click on the Copy To Clipboard Button, they will copy on their clipboard the new generated password.
-           <img src="./Assets/images/copy2cb.jpg" alt="Logo" height="200">
+
+<br>
+
+<img src="./Assets/images/copy2cb.jpg" alt="Logo" height="200">
    </p>
 
 
