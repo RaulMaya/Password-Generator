@@ -184,7 +184,6 @@ function writePassword() {
   var passwordText = document.querySelector("#password");
   if (password) {
     passwordText.value = password;
-    console.log(passLength);
   }
 }
 

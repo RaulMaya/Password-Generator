@@ -54,6 +54,12 @@ header {
   min-height: 100px;
 }
 
+textarea {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
+
 .card-footer {
   text-align: center;
 }
@@ -90,9 +96,11 @@ header {
 }
 
 .btn:hover {
-  background-color: #0fb8a1;
+  border: none;
+  background-color: #025045;
   transition: 1s;
 }
+
 
 button[disabled] {
   cursor: default;
